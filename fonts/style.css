@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Rubik Gemstones';
+    src: local('Rubik Gemstones Regular'), local('Rubik-Gemstones-Regular'),
+        url('RubikGemstones-Regular.woff2') format('woff2'),
+        url('RubikGemstones-Regular.woff') format('woff'),
+        url('RubikGemstones-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
